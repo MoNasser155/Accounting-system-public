@@ -2,6 +2,8 @@
 
 This repository contains a comprehensive Enterprise Resource Planning (ERP) system designed specifically for Windows desktop users. Built with Flutter, this application streamlines business operations with various modules for managing inventory, customers, suppliers, invoicing, and expenses.
 
+or you can view site throw this link https://monasser155.github.io/Accounting-system-public/
+
 ## 🚀 Features
 
 ### Inventory Management
